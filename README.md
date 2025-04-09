@@ -7,8 +7,8 @@ Make sure you have **Python 3.8+** installed. You can download it from [python.o
 
 ### 1. Clone the repository
 
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/KhaledGharib/LLM-API.git
+    cd LLM-API
 
 ### 2. (Optional) Create and activate a virtual environment
 
@@ -39,9 +39,3 @@ Replace `main.py` with your actual entry point if it's different.
     ├── requirements.txt
     ├── README.md
     └── ...
-
-## 📝 Notes
-
-- Upgrade `pip` if you run into installation issues:
-
-    pip install --upgrade pip
